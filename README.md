@@ -4,7 +4,7 @@
 <br/>
 <br/>
 
-I am a passionate **Cybersecurity Specialist** 🛡️ and a creative developer. I easily adapt to different technical challenges, shifting between **Ethical Hacking** 🕵️‍♂️ and **Software Development** 💻. I love exploring new AI tools and leveraging them to build meaningful digital products.
+I am a passionate **Cybersecurity Specialist** 🛡️ and a creative developer. I easily adapt to different technical challenges, shifting between **Ethical Hacking** 🕵️‍♂️ and **Software Development** 💻 I exploring new AI tools
 <br/>
 <br/>
 
