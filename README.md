@@ -4,7 +4,7 @@
 <br/>
 <br/>
 
-I am a **Cybersecurity Specialist** in the making 🛡️ and an enthusiastic learner based in **Turkey**. I easily adapt to different technical challenges, shifting between **Ethical Hacking** 🕵️‍♂️ and **Software Development** using **C#** 💻. I love exploring new AI tools and leveraging them to build meaningful digital products.
+I am a passionate **Cybersecurity Specialist** 🛡️ and a creative developer. I easily adapt to different technical challenges, shifting between **Ethical Hacking** 🕵️‍♂️ and **Software Development** 💻. I love exploring new AI tools and leveraging them to build meaningful digital products.
 <br/>
 <br/>
 
@@ -13,7 +13,7 @@ I am a **Cybersecurity Specialist** in the making 🛡️ and an enthusiastic le
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on a **Palestinian Dialect Dictionary** (AI/NLP Project).
-- 🌱 &nbsp; I’m currently learning **C#** (Visual Programming) and advanced **Kali Linux** tools.
+- 🌱 &nbsp; I’m focusing on **C#**, **C++**, and advanced **Kali Linux** tools.
 - 🛡️ &nbsp; My main focus is **Information Security**, **Penetration Testing**, and **Digital Commerce**.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/YOUR-USERNAME?tab=repositories).
 - 💬 &nbsp; Ask me about **Cybersecurity**, **Digital Products**, or **AI tools**.
@@ -24,8 +24,10 @@ I am a **Cybersecurity Specialist** in the making 🛡️ and an enthusiastic le
 <br>
 
 ### 🔨 Languages and Tools:
+<a href="https://isocpp.org/" target="_blank"><img align="left" alt="C++" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/cpp/cpp.svg"></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img align="left" alt="C#" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/csharp/csharp.svg"></a>
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
 <a href="https://www.kali.org/" target="_blank"><img align="left" alt="Linux" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/linux/linux.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" align="left" alt="VS" height='42px'/> </a>
