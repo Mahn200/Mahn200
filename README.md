@@ -10,61 +10,54 @@
 <br/>
 <br/>
 
-I focus on **offensive security**.  
-I break systems to understand them, then rebuild them stronger.
+I approach **cybersecurity** with a calm, analytical mindset.  
+My focus is on understanding how systems behave, where they become fragile,  
+and how they can be strengthened through thoughtful design and testing.
 
-I work across **penetration testing**, **exploit research**, and **low-level development**,  
-with a constant interest in **how systems fail under pressure**.
+I enjoy moving between **security analysis**, **software development**,  
+and careful experimentation with modern tools.
 
 <img align="right" alt="Tech Stack Animation" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 ---
 
-### 🧠 Offensive Profile
+### 🌱 Professional Focus
 
-- 🕵️‍♂️ Web & system exploitation  
-- 🛡️ Red Team mindset — adversarial thinking first  
-- 🔎 Vulnerability discovery & attack surface analysis  
-- 🧪 Tool building & attack automation  
-- 🧬 Understanding systems at protocol and memory level  
+- 🔍 Studying system behavior and attack surfaces responsibly  
+- 🛡️ Penetration testing with an emphasis on **risk awareness**  
+- 🧪 Building small tools to explore security concepts  
+- 🧠 Continuous learning in **network security** and system architecture  
 
 ---
 
 ### 🔨 Languages & Tools
 
-**Languages**
+**Programming**
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Offensive Stack**
+**Tools & Environment**
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ---
 
-### 🛠️ What You’ll Find Here
+### 🛠️ What I Build
 
-- Custom **penetration testing tools**
-- Exploit prototypes & PoCs  
-- Automation scripts for offensive workflows  
-- Experimental security research projects  
-
----
-
-### ⚠️ Disclaimer
-
-> All content is for **educational and research purposes only**.  
-> Use responsibly and only on systems you own or have permission to test.
+- Educational security tools  
+- Proof-of-concept projects for learning and testing  
+- Small experimental applications  
+- Code focused on clarity, safety, and improvement  
 
 ---
 
-### ☠️ Mentality
+### 🤍 Guiding Principle
 
-> *Defense is reaction.  
-> Offense is understanding.*
+> *Security is not about confrontation —  
+> it’s about understanding, balance, and trust.*
