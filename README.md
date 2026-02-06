@@ -1,10 +1,10 @@
 ## Hey 👋, I'm Mahmoud!
-<a href='https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='mailto:YOUR-EMAIL@gmail.com'><img align='left' alt="email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height='18px'/></a>
+<a href='https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/'><img align='left' alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href='mailto:YOUR-EMAIL@gmail.com'><img align='left' alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <br/>
 <br/>
 
-I am a passionate **Cybersecurity Specialist** 🛡️ and a creative developer. I easily adapt to different technical challenges, shifting between **Ethical Hacking** 🕵️‍♂️ and **Software Development** 💻 I exploring new AI tools
+I am a passionate **Cybersecurity Specialist** 🛡️ and a creative developer. I easily adapt to different technical challenges, shifting between **Ethical Hacking** 🕵️‍♂️ and **Software Development** 💻 I exploring new AI tools 
 <br/>
 <br/>
 
@@ -17,21 +17,21 @@ I am a passionate **Cybersecurity Specialist** 🛡️ and a creative developer.
 - 🛡️ &nbsp; My main focus is **Information Security**, **Penetration Testing**, and **Digital Commerce**.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/YOUR-USERNAME?tab=repositories).
 - 💬 &nbsp; Ask me about **Cybersecurity**, **Digital Products**, or **AI tools**.
-- 📫 &nbsp; Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/).
 - 📝 &nbsp; I am constantly seeking opportunities to expand my skills in **Network Security**.
 
 <br>
 <br>
 
 ### 🔨 Languages and Tools:
-<a href="https://isocpp.org/" target="_blank"><img align="left" alt="C++" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/cpp/cpp.svg"></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img align="left" alt="C#" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/csharp/csharp.svg"></a>
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="https://www.kali.org/" target="_blank"><img align="left" alt="Linux" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/linux/linux.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" align="left" alt="VS" height='42px'/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bash/bash.svg" align="left" alt="bash" height='42px'/> </a>
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![Kali](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 <br>
 <br>
@@ -49,11 +49,11 @@ I am a passionate **Cybersecurity Specialist** 🛡️ and a creative developer.
 
 ### 🛠️ My Projects
 <a href="LINK_TO_PALESTINIAN_DICT_REPO" target="_blank"> 
-  <img alt="Palestinian Dictionary" src="https://img.shields.io/badge/Project-Palestinian_Dictionary-239120?style=for-the-badge&logo=google-translate&logoColor=white" height="50" align="left"> 
+  <img alt="Palestinian Dictionary" src="https://img.shields.io/badge/Project-Palestinian_Dictionary-239120?style=for-the-badge&logo=google-translate&logoColor=white"> 
 </a>
 
 <a href="LINK_TO_ANY_OTHER_PROJECT" target="_blank"> 
-  <img alt="Cybersecurity Tools" src="https://img.shields.io/badge/Tools-Cybersec_Scripts-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" height="50" align="left"> 
+  <img alt="Cybersecurity Tools" src="https://img.shields.io/badge/Tools-Cybersec_Scripts-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"> 
 </a>
 
 <br>
